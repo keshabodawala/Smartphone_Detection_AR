@@ -16,4 +16,4 @@ A real-time smartphone detection application using [Google's TensorFlow Object D
 - TensorFlow 1.2
 - OpenCV 3.0
 - PyOpenGL 3.1.2
-- [Optional for 2D app] CUDA 8
+- [Optional: only for 2D app] CUDA 8
